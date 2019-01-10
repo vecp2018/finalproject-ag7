@@ -28,7 +28,7 @@
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
 <v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
@@ -37,6 +37,39 @@
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
+</v>
+<v t="leo.20190110175249.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190110175249.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190110183229.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190110183229.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190110183237.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190110183237.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190110183321.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190110183321.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190110183403.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190110183403.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190110183440.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190110183440.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190110183458.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190110183458.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190110183510.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190110183510.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190110183534.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190110183534.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190110183546.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190110183546.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20190110183949.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190110183949.2"><vh>投影片快捷鍵</vh></v>
 </v>
 </v>
 </v>
@@ -326,6 +359,186 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20190110175249.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190110175249.2"># ag7 組員
+
+* 40728408林威佑 (組長)
+* 40728423黃良宇
+* 40728429林語堂
+* 40728434林守慶
+* 40728440呂俊彥
+* 40728448梁淮軒 
+
+</t>
+<t tx="leo.20190110183229.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190110183229.2"># W1
+
+* 上課前講解
+* 攜帶筆記本
+* 攜帶隨身碟3.0
+* 攜帶耳機
+ 
+
+</t>
+<t tx="leo.20190110183237.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190110183237.2"># W2
+
+* 將P37系統 放入隨身碟  學會啟動
+* 學會Share X 錄影與截圖
+* 如何取得作業倉儲
+* Git clone 網址  命名 S
+
+
+</t>
+<t tx="leo.20190110183321.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190110183321.2"># W3
+
+* 學如何使用 print(), input(), int(), for 迴圈與函式定義及呼叫
+* print( )輸出
+* input( )提示輸入
+* int( )強制類型轉化
+* for 讓程式反覆的執行  固定變數
+ 
+
+</t>
+<t tx="leo.20190110183403.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190110183403.2"># W4
+
+* CMSimfly 開發過程改版與除錯流程以及Brython 練習簡單的 Python 程式執行 
+
+</t>
+<t tx="leo.20190110183440.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190110183440.2"># W6
+
+* 從修改內定分支, 管理動態網站, 轉為靜態網站到網誌轉檔過程
+* 在動態網站上加入 Youtube 影片, 轉為靜態網站後, 新增提交推送到 Github 倉儲中.
+* 在課程網頁中定義函式, 呼叫函式, 執行 for 重複迴圈.
+
+
+</t>
+<t tx="leo.20190110183458.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190110183458.2"># W9
+
+* 開始進行分組協同程式開發
+
+</t>
+<t tx="leo.20190110183510.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190110183510.2"># W10 W11 W12 W13
+
+* 編寫網際英英單字查詢服務
+* 猜數字遊戲
+* 戰鬥機
+* 讓球滾動
+
+
+</t>
+<t tx="leo.20190110183534.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190110183534.2"># W14
+
+* 利用 python-course 倉儲建立各分組的網際程式環境
+
+
+</t>
+<t tx="leo.20190110183546.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190110183546.2">
+
+最後感謝老師的指導，在計算機概論學這堂課，學到很多電腦程式與網站管理等。
+
+</t>
+<t tx="leo.20190110183949.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190110183949.2">
+# 謝謝大家
+
+
 </t>
 </tnodes>
 </leo_file>
